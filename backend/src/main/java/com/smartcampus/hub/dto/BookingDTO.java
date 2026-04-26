@@ -32,3 +32,4 @@ public class BookingDTO {
     private String status;
     private String rejectionReason;
 }
+//create Booking.
