@@ -40,3 +40,4 @@ public class Booking {
 
     private Integer expectedAttendees;
 }
+// initial setup.
