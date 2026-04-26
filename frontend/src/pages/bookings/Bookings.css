@@ -105,6 +105,8 @@
   color: var(--primary);
 }
 
+/*add logic to validate*/
+
 /* Status Pills V2 */
 .status-pill-v2 {
   display: inline-flex;
